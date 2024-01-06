@@ -1,0 +1,73 @@
+# ------------------------------------[UPDATE]--------------------------------------
+# Title: Libreddit Instances
+# Homepage: https://blocklist.site
+# Help: https://github.com/blocklistproject/lists/wiki/
+# License: https://unlicense.org
+# Total number of network filters: 63
+# -------------------------------------[INFO]---------------------------------------
+#
+# Libreddit Instances List
+# ------------------------------------[FILTERS]-------------------------------------
+
+0.0.0.0 libreddit.spike.codes
+0.0.0.0 libreddit.kavin.rocks
+0.0.0.0 reddit.invak.id
+0.0.0.0 libreddit.eu.org
+0.0.0.0 reddit.simo.sh
+0.0.0.0 lr.riverside.rocks
+0.0.0.0 libreddit.strongthany.cc
+0.0.0.0 libreddit.privacy.com.de
+0.0.0.0 reddit.baby
+0.0.0.0 libreddit.domain.glass
+0.0.0.0 r.nf
+0.0.0.0 lr.mint.lgbt
+0.0.0.0 libreddit.de
+0.0.0.0 libreddit.pussthecat.org
+0.0.0.0 libreddit.northboot.xyz
+0.0.0.0 libreddit.hu
+0.0.0.0 libreddit.totaldarkness.net
+0.0.0.0 libreddit.esmailelbob.xyz
+0.0.0.0 lr.vern.cc
+0.0.0.0 libreddit.nl
+0.0.0.0 reddi.tk
+0.0.0.0 r.walkx.fyi
+0.0.0.0 libreddit.kylrth.com
+0.0.0.0 libreddit.tiekoetter.com
+0.0.0.0 reddit.rtrace.io
+0.0.0.0 libreddit.privacydev.net
+0.0.0.0 r.ahwx.org
+0.0.0.0 libreddit.dcs0.hu
+0.0.0.0 reddit.dr460nf1r3.org
+0.0.0.0 rd.777.tf
+0.0.0.0 libreddit.foss.wtf
+0.0.0.0 l.opnxng.com
+0.0.0.0 libreddit.cachyos.org
+0.0.0.0 rd.funami.tech
+0.0.0.0 libreddit.projectsegfau.lt
+0.0.0.0 lr.slipfox.xyz
+0.0.0.0 libreddit.oxymagnesium.com
+0.0.0.0 libreddit.freedit.eu
+0.0.0.0 libreddit.mha.fi
+0.0.0.0 libreddit.garudalinux.org
+0.0.0.0 lr.4201337.xyz
+0.0.0.0 lr.odyssey346.dev
+0.0.0.0 lr.artemislena.eu
+0.0.0.0 discuss.whatever.social
+0.0.0.0 libreddit.pufe.org
+0.0.0.0 lr.aeong.one
+0.0.0.0 reddit.smnz.de
+0.0.0.0 libreddit.bus-hit.me
+0.0.0.0 reddit.leptons.xyz
+0.0.0.0 libreddit.lunar.icu
+0.0.0.0 reddit.thekitty.zone
+0.0.0.0 reddit.moe.ngo
+0.0.0.0 r.darklab.sh
+0.0.0.0 libreddit.albr.to
+0.0.0.0 snoo.habedieeh.re
+0.0.0.0 libreddit.kutay.dev
+0.0.0.0 libreddit.tux.pizza
+0.0.0.0 libreddit.billbert.co
+0.0.0.0 libreddit.gq
+0.0.0.0 lr.ggtyler.dev
+0.0.0.0 lr.seitan-ayoub.lol
+0.0.0.0 lr.vector1.dev
