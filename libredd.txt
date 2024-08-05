@@ -71,3 +71,5 @@
 0.0.0.0 lr.ggtyler.dev
 0.0.0.0 lr.seitan-ayoub.lol
 0.0.0.0 lr.vector1.dev
+0.0.0.0 reddit.adminforge.de
+0.0.0.0 redlib.pussthecat.org
