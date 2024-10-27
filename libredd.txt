@@ -73,3 +73,13 @@
 0.0.0.0 lr.vector1.dev
 0.0.0.0 reddit.adminforge.de
 0.0.0.0 redlib.pussthecat.org
+0.0.0.0 redlib.*
+0.0.0.0 lr.n8pjl.ca
+0.0.0.0 rl.bloat.cat
+0.0.0.0 red.ngn.tf
+0.0.0.0 red.artemislena.eu
+0.0.0.0 red.arancia.click
+0.0.0.0 
+
+
+
