@@ -79,7 +79,7 @@
 0.0.0.0 red.ngn.tf
 0.0.0.0 red.artemislena.eu
 0.0.0.0 red.arancia.click
-0.0.0.0 
+0.0.0.0 r.darrennathanael.com
 
 
 
